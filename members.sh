@@ -1,4 +1,4 @@
-echo Eric
-echo Elodie
-echo Ciana
-echo Amelia
+Eric
+Elodie
+Ciana
+Amelia
